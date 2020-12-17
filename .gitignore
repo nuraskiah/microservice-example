@@ -1,0 +1,7 @@
+node_modules
+virtualenv
+.env
+__pycache__
+rest.http
+
+package-lock.json
